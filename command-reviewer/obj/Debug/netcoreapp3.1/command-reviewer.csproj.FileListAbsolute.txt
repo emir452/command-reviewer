@@ -1,0 +1,15 @@
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\bin\Debug\netcoreapp3.1\command-reviewer.exe
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\bin\Debug\netcoreapp3.1\command-reviewer.deps.json
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\bin\Debug\netcoreapp3.1\command-reviewer.runtimeconfig.json
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\bin\Debug\netcoreapp3.1\command-reviewer.runtimeconfig.dev.json
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\bin\Debug\netcoreapp3.1\command-reviewer.dll
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\bin\Debug\netcoreapp3.1\command-reviewer.pdb
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\obj\Debug\netcoreapp3.1\command-reviewer.csprojAssemblyReference.cache
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\obj\Debug\netcoreapp3.1\command_reviewer.FRMMain.resources
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\obj\Debug\netcoreapp3.1\command-reviewer.csproj.GenerateResource.cache
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\obj\Debug\netcoreapp3.1\command-reviewer.csproj.CoreCompileInputs.cache
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\obj\Debug\netcoreapp3.1\command-reviewer.AssemblyInfoInputs.cache
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\obj\Debug\netcoreapp3.1\command-reviewer.AssemblyInfo.cs
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\obj\Debug\netcoreapp3.1\command-reviewer.dll
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\obj\Debug\netcoreapp3.1\command-reviewer.pdb
+C:\Users\compu\source\repos\command-reviewer\command-reviewer\obj\Debug\netcoreapp3.1\command-reviewer.genruntimeconfig.cache
